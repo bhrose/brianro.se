@@ -1,0 +1,17 @@
+baseURL = "https://brianro.se/"
+languageCode = "en-us"
+title = "Brian Rose"
+disableKinds = ["sitemap", "RSS"]
+theme = "."
+themesDir = "../"
+
+[author]
+name = "Brian Rose"
+
+[params.reveal_hugo]
+history = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = "true"
