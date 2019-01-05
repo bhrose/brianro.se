@@ -1,34 +1,4 @@
-/**
-
-  [ robot-lung ]
-
-  A hot pink theme for Reveal.js with Roboto fonts and a colorful border.
-  By Josh Dzielak, https://dzello.com/, License MIT
-
-  The bold border is optional and requires some HTML. To use it:
-
-  1. Add 4 divs to your HTML page:
-    <div class="line top"></div>
-    <div class="line bottom"></div>
-    <div class="line left"></div>
-    <div class="line right"></div>
-
-  2. Set { margin: 0.2 } in the Reveal.js initializer to make sure
-  your presentation content doesn't collide with the frame.
-
-  Like the theme but don't like the colors? Don't fret. Just change
-  $borderColor and/or $linkColor below to something else and rebuild.
-
-  Or if you don't want to rebuild the theme just override the .line background
-  property with some CSS:
-
-  .line {
-    background: <new-color>;
-  }
-
-*/
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300,700);
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #141414; }
 
@@ -39,7 +9,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .line {
   content: '';
   position: fixed;
-  background: #FF4081;
+  background: #9ad0dc;
   z-index: 105; }
   .line.top {
     left: 0;
@@ -87,19 +57,19 @@ body {
   background-color: #fff; }
 
 .reveal {
-  font-family: "Roboto Slab", serif;
+  font-family: 'Roboto Mono', monospace;
   font-size: 32px;
   font-weight: normal;
   color: #363636; }
 
 ::selection {
   color: #fff;
-  background: #ffc0d5;
+  background: #ffc701;
   text-shadow: none; }
 
 ::-moz-selection {
   color: #fff;
-  background: #ffc0d5;
+  background: #ffc701;
   text-shadow: none; }
 
 .reveal .slides > section,
@@ -117,12 +87,11 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #141414;
-  font-family: "Roboto", sans-serif;
+  color: #363636;
+  font-family: 'Roboto Mono', monospace;
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: normal;
-  text-transform: uppercase;
   text-shadow: none;
   word-wrap: break-word; }
 
@@ -279,20 +248,21 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #FF4081;
-  text-decoration: none;
+  color: #9ad0dc;
+  text-decoration: underline;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
   transition: color .15s ease; }
 
 .reveal a:hover {
-  color: #ff8db3;
+  color: #d4ddda;
+  text-decoration: underline;
   text-shadow: none;
   border: none; }
 
 .reveal .roll span:after {
   color: #fff;
-  background: #f30053; }
+  background: #9ad0dc; }
 
 /*********************************************
  * IMAGES
@@ -314,21 +284,21 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: #FF4081;
+  border-color: #9ad0dc;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
 /*********************************************
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: #FF4081; }
+  color: #ef5a68; }
 
 /*********************************************
  * PROGRESS BAR
  *********************************************/
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
-  color: #FF4081; }
+  color: #d4ddda; }
 
 .reveal .progress span {
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
@@ -337,4 +307,4 @@ body {
 
 .reveal .progress {
   z-index: 1000;
-  color: #FF80A1; }
+  color: #ef5a68; }
