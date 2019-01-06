@@ -22,4 +22,8 @@ Oh no.
 
 ---
 
->Hi there, Brian here. I had a lot of fun playing [You Are Jeff Bezos](https://direkris.itch.io/you-are-jeff-bezos) by Kris Ligman so I decided to make my own Choose Your Own Adventure game. I'm not done writing the story yet, so stay tuned. In the meantime, you can ping me on [Twitter](https://twitter.com/brianrose). Cheers!
+*Hi there, Other Brian here. I had a lot of fun playing [You Are Jeff Bezos](https://direkris.itch.io/you-are-jeff-bezos) by Kris Ligman so I decided to make my own Choose Your Own Adventure. I'm not done writing the story, so stay tuned. Cheers!*
+
+---
+
+[Start over](#).
