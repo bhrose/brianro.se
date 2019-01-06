@@ -14,7 +14,7 @@ It's kind of like a Russian nesting doll—it's really a building within a build
 
 You notice the security badge dangling from your belt loop. You're at the Google office in LA, and you work here.
 
-**You are Brian Rose**.
+You are Brian Rose.
 
 ---
 
