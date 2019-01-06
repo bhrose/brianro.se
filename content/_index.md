@@ -9,4 +9,6 @@ transition = "slide"
 transition_speed = "fast"
 +++
 
+# Welcome to brianro.se!
+
 Swipe left to start.
