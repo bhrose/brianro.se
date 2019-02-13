@@ -2,27 +2,24 @@
 weight = 2
 +++
 
-You're standing inside a timber-framed airplane hangar, but it looks more like a cruise ship.
-
-It's kind of like a Russian nesting doll—it's really a building within a building.
+Nice to meet you.
 
 ---
+
+I work at Google in LA here:
+
+---
+
 
 {{< slide background-image="/images/spruce-goose-hangar.jpg" background-color="#000000" >}}
 
 ---
 
-You notice the security badge dangling from your belt loop. You're at the Google office in LA, and you work here.
-
-You are Brian Rose.
+Pretty neat, huh?
 
 ---
 
-Oh no.
-
----
-
-*Hi there, Other Brian here. I had a lot of fun playing [You Are Jeff Bezos](https://direkris.itch.io/you-are-jeff-bezos) by Kris Ligman so I decided to make my own Choose Your Own Adventure. I'm not done writing the story, so stay tuned. Cheers!*
+You can find me on Twitter [@brianrose](https://twitter.com/brianrose/).
 
 ---
 
