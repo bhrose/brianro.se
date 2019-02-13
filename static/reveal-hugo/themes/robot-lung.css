@@ -18,7 +18,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
     height: 0px; }
     @media (max-width: 840px) {
       .line.top {
-        height: 15px; } }
+        height: 0px; } }
   .line.bottom {
     left: 0;
     top: auto;
@@ -27,7 +27,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
     height: 0px; }
     @media (max-width: 840px) {
       .line.bottom {
-        height: 15px; } }
+        height: 0px; } }
   .line.left {
     left: 0;
     top: 0;
@@ -35,7 +35,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
     height: 200%; }
     @media (max-width: 840px) {
       .line.left {
-        width: 15px; } }
+        width: 0px; } }
   .line.right {
     left: auto;
     right: 0;
@@ -44,7 +44,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
     height: 200%; }
     @media (max-width: 840px) {
       .line.right {
-        width: 15px; } }
+        width: 0px; } }
 
 .reveal.has-dark-background .line {
   display: none; }
