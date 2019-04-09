@@ -2,19 +2,17 @@
 weight = 2
 +++
 
-## I work at Google LA.
-
-Our new building looks like this:
+I work here:
 
 ---
 
-{{< slide background-image="/images/spruce-goose-hangar.jpg" background-color="#000000" >}}
+{{< slide background-image="/images/google-plv.jpg" background-color="#000000" >}}
 
 ---
 
 <small>
 
-| My 12 years at Google                |
+| 12 years at Google                   |
 | :----------------------------------- |
 | Product Marketing, Gradient Ventures |
 | Founder and CEO, Ready by Area 120   |
@@ -23,30 +21,39 @@ Our new building looks like this:
 | Associate Principal, Google Photos   |
 | Senior Strategist, Google Toolbar    |
 
-
 </small>
 
 ---
 
-## Remember Project Glass?
-
-I led the first Project Glass photowalk with Sergey Brin.
+I like to build communities.
 
 ---
 
-{{< slide background-image="/images/project-glass.jpg" background-color="#000000" >}}
+Around photos:
 
 ---
 
-## These days, I work with AI startups.
-
-You can read all about our program [here](https://www.cnbc.com/2017/07/10/google-launches-gradient-ventures-to-invest-in-a-i-start-ups.html).
+{{< slide background-image="/images/dublin-google-plus.jpg" background-color="#000000" >}}
 
 ---
 
-## You can find me on Twitter [@brianrose](https://twitter.com/brianrose/).
+Alternate realities:
 
-I don't really use other social networks. Sorry, Google+.
+---
+
+{{< slide background-image="/images/ingress-kyoto.jpg" background-color="#000000" >}}
+
+---
+
+And developers:
+
+---
+
+{{< slide background-image="/images/tilt-brush.jpg" background-color="#000000" >}}
+
+---
+
+Follow me [@brianrose](https://twitter.com/brianrose/).
 
 ---
 
