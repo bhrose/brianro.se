@@ -1,17 +1,25 @@
 baseURL = "https://brianro.se/"
 languageCode = "en-us"
 title = "Brian Rose"
-disableKinds = ["RSS"]
-theme = "."
-themesDir = "../"
+googleAnalytics = "UA-3149651-11"
+theme = "hallo"
 
-[author]
-name = "Brian Rose"
+[Author]
+    name = "Brian Rose"
 
-[params.reveal_hugo]
-history = true
+[params]
 
-[outputFormats.Reveal]
-baseName = "index"
-mediaType = "text/html"
-isHTML = "true"
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/brianrose"
+
+    [[params.links]]
+        icon = "google-plus-g"
+        title = "Google+"
+        url = "https://killedbygoogle.com/"
+    
+    [params.colors]
+        background = "#81c6ff"
+        foreground = "#edf7ff"
+        hover = "#ffba82"
