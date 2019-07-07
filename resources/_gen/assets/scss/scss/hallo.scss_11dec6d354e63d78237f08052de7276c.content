@@ -1,30 +1,30 @@
 html,
 body {
-  color: #edf7ff;
+  color: #FFFFFF;
   margin: 1rem;
   padding: 0; }
 
 html {
-  font-family: Montserrat, "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: "Gaegu", Helvetica, Arial, sans-serif;
+  font-size: 1.2em;
   overflow-y: auto; }
 
 body {
-  background-color: #81c6ff; }
+  background-color: #2FBDBD; }
 
 a {
   -webkit-transition: color 0.2s ease-out;
   -moz-transition: color 0.2s ease-out;
   transition: color 0.2s ease-out;
-  color: #edf7ff; }
+  color: #FFFFFF; }
   a:hover {
-    color: #ffba82; }
+    color: #FFCE06; }
 
 h1 {
-  font-size: 9rem; }
+  font-size: 4rem; }
 
 h2 {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: normal; }
 
 @media screen and (max-width: 992px) {
@@ -36,12 +36,12 @@ h2 {
 img.portrait {
   box-sizing: border-box;
   border-radius: 50%;
-  border: 10px solid #edf7ff;
+  border: 10px solid #FFFFFF;
   margin: 2em 3em;
   width: 100%;
   height: auto;
-  max-width: 300px;
-  max-height: 300px; }
+  max-width: 180px;
+  max-height: 180px; }
 
 .column {
   flex: 1; }

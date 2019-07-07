@@ -5,21 +5,17 @@ googleAnalytics = "UA-3149651-11"
 theme = "hallo"
 
 [Author]
-    name = "Brian Rose"
+    name = "Brian"
 
 [params]
+greeting = "Hi."
 
     [[params.links]]
         icon = "twitter"
         title = "Twitter"
         url = "https://twitter.com/brianrose"
-
-    [[params.links]]
-        icon = "google-plus-g"
-        title = "Google+"
-        url = "https://killedbygoogle.com/"
     
     [params.colors]
-        background = "#81c6ff"
-        foreground = "#edf7ff"
-        hover = "#ffba82"
+        background = "#2FBDBD"
+        foreground = "#FFFFFF"
+        hover = "#FFCE06"

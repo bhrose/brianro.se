@@ -7,7 +7,7 @@ body {
 
 html {
     font-family: $sans-serif;
-    font-size: 16px;
+    font-size: 1.2em;
     overflow-y: auto;
 }
 
@@ -25,11 +25,11 @@ a {
 }
 
 h1 {
-    font-size: 9rem;
+    font-size: 4rem;
 }
 
 h2 {
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: normal;
 }
 @media screen and (max-width: $break-large) {
@@ -49,6 +49,6 @@ img.portrait {
     margin: 2em 3em;
     width: 100%;
     height: auto;
-    max-width: 300px;
-    max-height: 300px;
+    max-width: 180px;
+    max-height: 180px;
 }
