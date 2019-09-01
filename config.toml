@@ -1,21 +1,36 @@
-baseURL = "https://brianro.se/"
-languageCode = "en-us"
-title = "Brian Rose"
-googleAnalytics = "UA-3149651-11"
-theme = "hallo"
-
-[Author]
-    name = "Brian"
+baseurl                  = "https://brianro.se/"           # Your domain name. Must end with "/"
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Brian Rose"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
-greeting = "Hi."
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 PT"
+    favicon              = "sam.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "Brian Rose"
 
-    [[params.links]]
-        icon = "twitter"
-        title = "Twitter"
-        url = "https://twitter.com/brianrose"
-    
-    [params.colors]
-        background = "#2FBDBD"
-        foreground = "#FFFFFF"
-        hover = "#FFCE06"
+# Metadata for Open Graph and Twitter
+    description          = "Brian Rose's personal homepage"               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Brian Rose"
+
+[[params.mainMenu]]
+    link = "/hi"
+    text = "Hi"
+
+[[params.mainMenu]]
+    link = "/im-brian"
+    text = "I'm Brian"
+
+[[params.mainMenu]]
+    link = "/its-nice-to-meet-you"
+    text = "It's nice to meet you"
+
+[imaging]
+    quality = 75
