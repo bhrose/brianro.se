@@ -71,7 +71,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # Provide the post URL for the form and depending on the provider
     # add some custom JS script to finish the implementation.
 
-    #postURL = ""
+    #postURL = "https://formspree.io/mrgbnrbn"
 
     enable = true
     title = "Get in touch"
