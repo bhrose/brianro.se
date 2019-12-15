@@ -43,7 +43,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # If name is not set, author is used
     name = "Brian Rose"
     # Avatars can be written to images/avatars/
-    avatar = "android.png"
+    avatar = "brian.png"
     position = "Senior Producer"
     livesIn = ""
     scope = []
@@ -79,7 +79,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     emailPlaceholder = "Email"
     messagePlaceholder = "Message"
     buttonText = "Send"
-    success = "Thanks for your note."
+    success = "Your message has been sent, thank you."
     error = "Scanner communication error (1)."
 
     # Google invisible captcha
